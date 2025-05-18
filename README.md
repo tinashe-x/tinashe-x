@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tinashe Sibanda
 
-**Junior Software Developer & QA Analyst**  
-📍 Gauteng, South Africa  
+**Junior Full-Stack Software Developer**  
+📍 Cape Town, South Africa  
 🎓 BCom (Hons) in Information Systems – University of Cape Town  
 📧 tinashejsibanda@gmail.com | ☎️ +27 60 948 9794  
 🌐 [Portfolio](https://myportfolio-tinashexs-projects.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/tinashe-sibanda-b38b8b195/)
@@ -12,21 +12,21 @@
 
 I'm a passionate full-stack JavaScript developer with hands-on experience in building web and mobile apps. I specialize in React, Next.js, and Node.js, and I’ve contributed to products deployed on platforms like Google Play. I enjoy collaborating with teams, building scalable APIs, and constantly sharpening my dev and QA skills.
 
-> Outside of coding, I love gaming, listening to music, and playing football whenever I can!
+> Outside of coding, I love gaming, listening to music, and playing football whenever I can.
 
 ---
 
 ## 🔧 Tech Stack & Skills
 
 ### 🖥️ Frontend
-- **React & React Native** – Multi-step forms, Redux state management, conditional rendering
-- **Next.js** – Server-side rendering, routing, performance optimization
+- **React & React Native** 
+- **Next.js**
 - **HTML5, CSS3** – Responsive and accessible UI design
 
 ### ⚙️ Backend
-- **Node.js & NestJS** – RESTful + GraphQL APIs, PouchDB caching, backend logic
-- **SQL** – 3+ years managing databases
-- **GraphQL** – Streamlined data fetching and performance-focused API design
+- **Node.js & NestJS** 
+- **SQL** 
+- **GraphQL** 
 
 ### 🛠️ Other Tools & Skills
 - **ESLint-first** code quality
@@ -45,18 +45,18 @@ I'm a passionate full-stack JavaScript developer with hands-on experience in bui
 
 ## 🚀 Featured Projects
 
-- 🌍 [E-learning Platform (WordPress)](https://myportfolio-tinashexs-projects.vercel.app/)
-- 📱 [Google Play Mobile App (React Native)](https://sovtechportfolio-zeta.vercel.app/)
-- 📚 [Full-Stack Education App (NestJS, GraphQL)](https://myportfolio-tinashexs-projects.vercel.app/)
+- 🌍 [E-learning Platform (WordPress)]
+- 📱 [Google Play Mobile App (React Native)]
+- 📚 [Full-Stack Education App (NestJS, GraphQL)]
 
 ---
 
 ## 📜 Certificates & Learning
 
+- Certified Entry-Level JavaScript Programmer
 - McKinsey Forward Programme
 - Udemy: ASP.NET Core & MVC
 - Java Android Development – Boston College
-- Adaptive Leadership Diploma (In Progress)
 
 ---
 
