@@ -38,8 +38,8 @@ I'm a passionate full-stack JavaScript developer with hands-on experience in bui
 
 ## 📈 GitHub Stats
 
-![Tinashe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinashexs&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinashexs&layout=compact&theme=radical)
+![Tinashe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinashe-x&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinashe-x&layout=compact&theme=radical)
 
 ---
 
